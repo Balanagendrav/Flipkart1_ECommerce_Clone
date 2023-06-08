@@ -1,0 +1,19 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "E_Commerce_Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balanagendrav/Flipkart1_ECommerce_Clone.git"
+  },
+  "author": "Bala Nagendra Vanapalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Balanagendrav/Flipkart1_ECommerce_Clone/issues"
+  },
+  "homepage": "https://github.com/Balanagendrav/Flipkart1_ECommerce_Clone#readme"
+}
